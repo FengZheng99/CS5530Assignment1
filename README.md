@@ -1,10 +1,11 @@
-# CS5530Assignment1
-# Feng Zheng
-# 02/20/2023
+# CS5530Assignment1 Name: Feng Zheng Date: 02/20/2023
 
 The dataset contains the following columns:
-- `Unnamed: 0` - index, can be ignored
-- `ID` - unique ID for each article (appears to be a generated UUID)
-- `Content` - the text content of the article
-- `Summary` - the summary of the article
-- `Dataset` - the dataset that the article came from (XSum, CNN/Daily Mail, Multi-News)
+- `gender` - female or male
+- `race/ethnicity	` - Group A-E
+- `parental level of education` - highest education parent has completed
+- `lunch` - standard or free/reduced
+- `test preparation course` - If student completed the preparation course
+- `math score` - score of math test
+- `reading score` - score of reading test
+- `writing score` - score of writing test

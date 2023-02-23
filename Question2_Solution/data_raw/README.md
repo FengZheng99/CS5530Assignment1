@@ -1,4 +1,5 @@
 The dataset contains the following columns:
+- '	Unnamed: 0' = index
 - `gender` - female or male
 - `race/ethnicity	` - Group A-E
 - `parental level of education` - highest education parent has completed
